@@ -1,4 +1,5 @@
-# rails_template.rb
+# basic.rb
+# Used for Rails 2.3.x apps
 
 rake "db:create", :env => 'development'
 rake "db:create", :env => 'test'

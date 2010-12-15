@@ -1,4 +1,6 @@
-# rails_template.rb
+# restful_auth_acl.rb
+# Used for Rails 2.3 apps
+# Includes RESTful Authentication and RESTful ACL for authentication/authorization.
 
 rake "db:create", :env => 'development'
 rake "db:create", :env => 'test'

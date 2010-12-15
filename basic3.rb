@@ -1,7 +1,8 @@
-# rails_template.rb
+# basic.rb
+# Used for Rails 3.0.x apps
 
-gem "haml", ">= 3.0.14"
-gem "nifty-generators", ">= 0.4.0"
+gem "haml"
+gem "nifty-generators"
 gem "sqlite3-ruby"
 
 run 'bundle install'
